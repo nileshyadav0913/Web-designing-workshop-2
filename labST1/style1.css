@@ -1,0 +1,31 @@
+body{
+font-family: Arial;
+background-color:#f2f2f2;
+text-align:center;
+padding:40px;
+
+}
+.container{
+background:rgb(213, 203, 203);
+padding:25px;
+width:300px;
+
+margin:auto;
+border-radius:10px;
+box-shadow:0px 0px 10px gray;
+}
+h2{
+    align: center;
+}
+button{
+padding:10px 20px;
+background-color:rgb(255, 0, 0);
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+button:hover{
+background-color:darkblue;
+}
+simple interest calculator create a web page that take principle rate and time as input  and calculate simple interesr\
